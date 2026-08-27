@@ -21,6 +21,7 @@
 | [0645-set-mismatch](https://github.com/as5297145-cloud/Dsa-java/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/as5297145-cloud/Dsa-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/as5297145-cloud/Dsa-java/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0410-split-array-largest-sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/as5297145-cloud/Dsa-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/as5297145-cloud/Dsa-java/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
