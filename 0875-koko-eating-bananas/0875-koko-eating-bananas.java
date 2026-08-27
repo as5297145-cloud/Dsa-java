@@ -7,7 +7,7 @@ class Solution {
         }
         while(start<end){
             int mid = start + (end - start)/2;
-            long p = 0L;
+            int p = 0;
             for(int i =0;i<piles.length;i++){
                 if(piles[i]<=mid){
                     p=p+1;
