@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/as5297145-cloud/Dsa-java/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/as5297145-cloud/Dsa-java/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/as5297145-cloud/Dsa-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/as5297145-cloud/Dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/as5297145-cloud/Dsa-java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/as5297145-cloud/Dsa-java/tree/master/0162-find-peak-element) |
@@ -81,6 +82,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/as5297145-cloud/Dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
