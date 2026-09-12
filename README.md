@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/as5297145-cloud/Dsa-java/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/as5297145-cloud/Dsa-java/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/as5297145-cloud/Dsa-java/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/as5297145-cloud/Dsa-java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/as5297145-cloud/Dsa-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/as5297145-cloud/Dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/as5297145-cloud/Dsa-java/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/as5297145-cloud/Dsa-java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/as5297145-cloud/Dsa-java/tree/master/0645-set-mismatch) |
@@ -80,6 +82,7 @@
 | [0015-3sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/as5297145-cloud/Dsa-java/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/as5297145-cloud/Dsa-java/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/as5297145-cloud/Dsa-java/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/as5297145-cloud/Dsa-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/as5297145-cloud/Dsa-java/tree/master/0287-find-the-duplicate-number) |
@@ -120,4 +123,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/as5297145-cloud/Dsa-java/tree/master/0042-trapping-rain-water) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/as5297145-cloud/Dsa-java/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/as5297145-cloud/Dsa-java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
