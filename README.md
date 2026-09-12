@@ -34,6 +34,7 @@
 | [0881-boats-to-save-people](https://github.com/as5297145-cloud/Dsa-java/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/as5297145-cloud/Dsa-java/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/as5297145-cloud/Dsa-java/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/as5297145-cloud/Dsa-java/tree/master/0645-set-mismatch) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/as5297145-cloud/Dsa-java/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0881-boats-to-save-people](https://github.com/as5297145-cloud/Dsa-java/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/as5297145-cloud/Dsa-java/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/as5297145-cloud/Dsa-java/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +99,7 @@
 | [0881-boats-to-save-people](https://github.com/as5297145-cloud/Dsa-java/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/as5297145-cloud/Dsa-java/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/as5297145-cloud/Dsa-java/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Pigeonhole Principle
 |  |
 | ------- |
