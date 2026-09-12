@@ -9,7 +9,8 @@
             int start = i+1;
             int end  = nums.length-1;
             while(start<end){
-                if(nums[i]+nums[start]+nums[end]==0){
+                int sum = nums[i]+nums[start]+nums[end];
+                if(sum==0){
                     ans.add(Arrays.asList(nums[i],nums[start],nums[end]));
                     start++;
                     end--;
@@ -21,7 +22,7 @@
                      end--;
                     }
                 }
-                else if(nums[i]+nums[start]+nums[end]<0){
+                else if(sum<0){
                     start++;
                 }
                 else{
