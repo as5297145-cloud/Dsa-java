@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/as5297145-cloud/Dsa-java/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -67,6 +68,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/as5297145-cloud/Dsa-java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/as5297145-cloud/Dsa-java/tree/master/0645-set-mismatch) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/as5297145-cloud/Dsa-java/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/as5297145-cloud/Dsa-java/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/as5297145-cloud/Dsa-java/tree/master/0283-move-zeroes) |
