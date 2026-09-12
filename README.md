@@ -32,6 +32,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/as5297145-cloud/Dsa-java/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/as5297145-cloud/Dsa-java/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/as5297145-cloud/Dsa-java/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/as5297145-cloud/Dsa-java/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0287-find-the-duplicate-number](https://github.com/as5297145-cloud/Dsa-java/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/as5297145-cloud/Dsa-java/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/as5297145-cloud/Dsa-java/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
