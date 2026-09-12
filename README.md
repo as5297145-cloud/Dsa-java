@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/as5297145-cloud/Dsa-java/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/as5297145-cloud/Dsa-java/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/as5297145-cloud/Dsa-java/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/as5297145-cloud/Dsa-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/as5297145-cloud/Dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -78,6 +79,7 @@
 | [0011-container-with-most-water](https://github.com/as5297145-cloud/Dsa-java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/as5297145-cloud/Dsa-java/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/as5297145-cloud/Dsa-java/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/as5297145-cloud/Dsa-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/as5297145-cloud/Dsa-java/tree/master/0287-find-the-duplicate-number) |
@@ -93,6 +95,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/as5297145-cloud/Dsa-java/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/as5297145-cloud/Dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -109,4 +112,12 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/as5297145-cloud/Dsa-java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/as5297145-cloud/Dsa-java/tree/master/0344-reverse-string) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/as5297145-cloud/Dsa-java/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/as5297145-cloud/Dsa-java/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
