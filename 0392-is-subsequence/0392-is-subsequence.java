@@ -1,6 +1,5 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        int c = s.length();
         int count = 0;
         int i = 0;
         int j = 0;
@@ -14,7 +13,7 @@ class Solution {
                 j++;
             }
         }
-        if(count==c){
+        if(count==s.length()){
             return true;
         }
         else{
