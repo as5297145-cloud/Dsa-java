@@ -99,6 +99,7 @@
 | [0283-move-zeroes](https://github.com/as5297145-cloud/Dsa-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/as5297145-cloud/Dsa-java/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/as5297145-cloud/Dsa-java/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/as5297145-cloud/Dsa-java/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/as5297145-cloud/Dsa-java/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/as5297145-cloud/Dsa-java/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0977-squares-of-a-sorted-array) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/as5297145-cloud/Dsa-java/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/as5297145-cloud/Dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/as5297145-cloud/Dsa-java/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -132,6 +134,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/as5297145-cloud/Dsa-java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/as5297145-cloud/Dsa-java/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/as5297145-cloud/Dsa-java/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
