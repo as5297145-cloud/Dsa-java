@@ -35,6 +35,7 @@
 | [0881-boats-to-save-people](https://github.com/as5297145-cloud/Dsa-java/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/as5297145-cloud/Dsa-java/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/as5297145-cloud/Dsa-java/tree/master/0986-interval-list-intersections) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/as5297145-cloud/Dsa-java/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
@@ -105,6 +106,7 @@
 | [0881-boats-to-save-people](https://github.com/as5297145-cloud/Dsa-java/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/as5297145-cloud/Dsa-java/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/as5297145-cloud/Dsa-java/tree/master/0986-interval-list-intersections) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/as5297145-cloud/Dsa-java/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Pigeonhole Principle
 |  |
@@ -160,4 +162,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/as5297145-cloud/Dsa-java/tree/master/0881-boats-to-save-people) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/as5297145-cloud/Dsa-java/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
