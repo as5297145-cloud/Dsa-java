@@ -21,6 +21,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/as5297145-cloud/Dsa-java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/as5297145-cloud/Dsa-java/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/as5297145-cloud/Dsa-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/as5297145-cloud/Dsa-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/as5297145-cloud/Dsa-java/tree/master/0287-find-the-duplicate-number) |
@@ -49,6 +50,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/as5297145-cloud/Dsa-java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/as5297145-cloud/Dsa-java/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/as5297145-cloud/Dsa-java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/as5297145-cloud/Dsa-java/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0410-split-array-largest-sum) |
@@ -135,6 +137,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0410-split-array-largest-sum) |
 ## String
 |  |
@@ -171,6 +174,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/as5297145-cloud/Dsa-java/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/as5297145-cloud/Dsa-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
