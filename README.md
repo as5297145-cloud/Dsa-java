@@ -28,6 +28,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/as5297145-cloud/Dsa-java/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/as5297145-cloud/Dsa-java/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/as5297145-cloud/Dsa-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -166,4 +167,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/as5297145-cloud/Dsa-java/tree/master/0986-interval-list-intersections) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/as5297145-cloud/Dsa-java/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
