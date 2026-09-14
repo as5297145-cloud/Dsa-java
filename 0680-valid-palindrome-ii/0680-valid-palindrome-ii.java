@@ -2,7 +2,6 @@ class Solution {
     public boolean validPalindrome(String s) {
         int start = 0;
         int end = s.length()-1;
-        int count = 0;
         while(start<=end){
             if(s.charAt(start)==s.charAt(end)){
                 start++;
