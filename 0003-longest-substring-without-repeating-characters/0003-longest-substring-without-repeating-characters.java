@@ -1,6 +1,5 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        int i = 0;
         int j = 0;
         String m = "";
         int max = 0;
@@ -12,7 +11,6 @@ class Solution {
             else{
                 int index = m.indexOf(s.charAt(j)) + 1;
                 m = m.substring(index);
-                i++;
                 m = m + s.charAt(j);
                 j++;
             }
