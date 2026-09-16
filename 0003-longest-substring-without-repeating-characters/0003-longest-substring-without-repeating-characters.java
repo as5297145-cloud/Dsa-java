@@ -13,6 +13,8 @@ class Solution {
                 int index = m.indexOf(s.charAt(j)) + 1;
                 m = m.substring(index);
                 i++;
+                m = m + s.charAt(j);
+                j++;
             }
             max = Math.max(max,m.length());
         }
