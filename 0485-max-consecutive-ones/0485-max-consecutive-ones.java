@@ -5,7 +5,7 @@ class Solution {
         int count=0;
         int max = 0;
         while(j<nums.length){
-            if((nums[j] & 1) ==1){
+            if(nums[j] ==1){
                 count=j-i+1;
                 max = Math.max(count,max);
                 j++;
