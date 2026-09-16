@@ -39,6 +39,7 @@
 | [0905-sort-array-by-parity](https://github.com/as5297145-cloud/Dsa-java/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/as5297145-cloud/Dsa-java/tree/master/0986-interval-list-intersections) |
+| [1004-max-consecutive-ones-iii](https://github.com/as5297145-cloud/Dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/as5297145-cloud/Dsa-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/as5297145-cloud/Dsa-java/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
@@ -59,6 +60,7 @@
 | [0704-binary-search](https://github.com/as5297145-cloud/Dsa-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/as5297145-cloud/Dsa-java/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/as5297145-cloud/Dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/as5297145-cloud/Dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -180,5 +183,6 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/as5297145-cloud/Dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/as5297145-cloud/Dsa-java/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/as5297145-cloud/Dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/as5297145-cloud/Dsa-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
