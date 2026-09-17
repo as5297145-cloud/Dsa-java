@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/as5297145-cloud/Dsa-java/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/as5297145-cloud/Dsa-java/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/as5297145-cloud/Dsa-java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/as5297145-cloud/Dsa-java/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/as5297145-cloud/Dsa-java/tree/master/0645-set-mismatch) |
@@ -193,4 +194,8 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/as5297145-cloud/Dsa-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/as5297145-cloud/Dsa-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/as5297145-cloud/Dsa-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/as5297145-cloud/Dsa-java/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
