@@ -42,6 +42,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/as5297145-cloud/Dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/as5297145-cloud/Dsa-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/as5297145-cloud/Dsa-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/as5297145-cloud/Dsa-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/as5297145-cloud/Dsa-java/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
@@ -132,6 +133,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/as5297145-cloud/Dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/as5297145-cloud/Dsa-java/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/as5297145-cloud/Dsa-java/tree/master/0410-split-array-largest-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/as5297145-cloud/Dsa-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
@@ -188,4 +190,5 @@
 | [1004-max-consecutive-ones-iii](https://github.com/as5297145-cloud/Dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/as5297145-cloud/Dsa-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/as5297145-cloud/Dsa-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/as5297145-cloud/Dsa-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
