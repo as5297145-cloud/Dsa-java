@@ -45,6 +45,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/as5297145-cloud/Dsa-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/as5297145-cloud/Dsa-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/as5297145-cloud/Dsa-java/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/as5297145-cloud/Dsa-java/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/as5297145-cloud/Dsa-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/as5297145-cloud/Dsa-java/tree/master/0645-set-mismatch) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/as5297145-cloud/Dsa-java/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/as5297145-cloud/Dsa-java/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0268-missing-number](https://github.com/as5297145-cloud/Dsa-java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/as5297145-cloud/Dsa-java/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/as5297145-cloud/Dsa-java/tree/master/0645-set-mismatch) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/as5297145-cloud/Dsa-java/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
 | ------- |
